@@ -1,6 +1,6 @@
 # Dataset: 5.-Battery-Data-Set-data-processing
 Dataset: Experiments on Li-Ion batteries. Charging and discharging at different temperatures. Records the impedance as the damage criterion. The data set was provided by the NASA Prognostics Center of Excellence (PCoE).
-Code: It is used to convert the data set.MAT file into.CSV file, and calculate the Capacity at each moment during the charging and discharging process
+\n Code: It is used to convert the data set.MAT file into.CSV file, and calculate the Capacity at each moment during the charging and discharging process
 ## mat2csv.py
 
 - 作用：mat2csv.py文件用于实现将数据集5.+Battery+Data+Set中提供的.mat数据文件转化为对应的.csv文件，并计算了charge和discharge情况下每一时刻对应的电池Capacity(Ahr)。
